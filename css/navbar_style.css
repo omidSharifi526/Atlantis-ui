@@ -1,0 +1,12 @@
+.logo{
+    width: 100px;
+
+}
+.btn-search{
+    font-size: 12px;
+    width: 150px;
+}
+::placeholder{
+    font-size: 10px;
+    padding: 5px;
+}
