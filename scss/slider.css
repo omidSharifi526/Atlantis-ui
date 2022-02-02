@@ -1,0 +1,17 @@
+.slider{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1,h6{
+    color: aliceblue;
+}
+@media screen and (max-width:668px) {
+    .slider{
+        height: 400px;
+    }
+}
